@@ -1,2 +1,2 @@
-# class-clicker-web
-https://ktkalpha.github.io/class-clicker-web/index.html
+# class-clicker-app
+https://ktkalpha.github.io/class-clicker-app/index.html
